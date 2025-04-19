@@ -1,6 +1,6 @@
 import math
 
-number = int(input('Enter an integer :  '))
+number = flaot(input('Enter an number :  '))
 sqr = math.sqrt(number)
 log_e = math.log(number)
 sin = math.sin(number)
